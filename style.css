@@ -1,5 +1,9 @@
 /*styles go here*/
 
+body {
+  background-color:#f1eee7;
+}
+
 h1 {
     font-family: "Lora", serif;
     font-size: 2.5em;
@@ -23,6 +27,7 @@ p {
 
 #footer {
   background-color: #496958;
+  height: 50px;
     color: #fff;
     font-family: "Open Sans", sans-serif;
     font-size: .5em;
