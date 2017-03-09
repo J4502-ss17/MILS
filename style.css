@@ -14,7 +14,7 @@ h2 {
     color: #353535;
 }
 
-body {
+p {
   font-family: "Open Sans", sans-serif;
   font-size: 1em;
   line-height: 1.5em;
@@ -22,7 +22,48 @@ body {
 }
 
 #footer {
-    color: #496958;
+  background-color: #496958;
+    color: #fff;
     font-family: "Open Sans", sans-serif;
     font-size: .5em;
+}
+
+#container {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f1eee7;
+}
+
+a:link {
+color: #e46c5c;
+}
+
+#nav {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  list-style-type: none;
+}
+
+#nav li {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  border-bottom: 1px solid #ffffff;
+}
+
+#nav a:link, #nav a:visited {
+  display: block;
+  color: #fff;
+  background-color: #496958;
+  text-decoration: none;
+  font-family:"Open Sans", sans-serif;
+  text-align: center;
+  padding: 4px;
+}
+
+#nav a:hover, #nav a:active {
+  background-color: #93af87;
 }
