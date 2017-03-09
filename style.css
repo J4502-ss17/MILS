@@ -20,3 +20,9 @@ body {
   line-height: 1.5em;
   color: #353535;
 }
+
+#footer {
+    color: #496958;
+    font-family: "Open Sans", sans-serif;
+    font-size: .5em;
+}
