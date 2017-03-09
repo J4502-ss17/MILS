@@ -26,15 +26,15 @@ p {
 }
 
 #footer {
-  background-color: #496958;
-  height: 50px;
+    background-color: #496958;
+    height: 50px;
     color: #fff;
     font-family: "Open Sans", sans-serif;
     font-size: .5em;
 }
 
 #container {
-  width: 90%;
+  width: 60%;
   margin: 0 auto;
   text-align: center;
   background-color: #f1eee7;
