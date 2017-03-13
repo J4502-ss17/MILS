@@ -44,8 +44,10 @@ p {
   background-color: #f1eee7;
 }
 
-.homepagelinks {
+.homepagelinks a:link, .homepagelinks a:visited {
   display: block;
+  color: #fff;
+  text-decoration: none;
   background-color: #93AF87;
   text-align:left;
   padding: 1px;
@@ -56,7 +58,6 @@ a:link a:visited {
 color: #e46c5c;
 text-decoration: none;
 }
-
 
 #nav {
     width: 100vw;
