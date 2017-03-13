@@ -112,5 +112,7 @@ text-decoration: none;
     height: 50px;
     color: #fff;
     font-family: "Open Sans", sans-serif;
-    font-size: .5em;
+    font-size: .8em;
+    text-align: center;
+    line-height: 50px;
 }
