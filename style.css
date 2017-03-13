@@ -44,7 +44,7 @@ p {
   background-color: #f1eee7;
 }
 
-a:link {
+a:link, a:visited {
 color: #e46c5c;
 }
 
