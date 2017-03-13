@@ -44,7 +44,7 @@ p {
   background-color: #f1eee7;
 }
 
-#homepagelinks {
+.homepagelinks {
   display: block;
   background-color: #93AF87;
   text-align:left;
