@@ -49,10 +49,17 @@ p {
   text-align: center;
   background-color: #f1eee7;
 }
-
+#homepagelinks {
+  display:block;
+  background-color: #93AF87;
+    text-align:left;;
+    text-decoration: none;
+    padding: 1px;
+}
 a:link {
 color: #e46c5c;
 }
+
 
 #nav {
   padding-top: 10px;
