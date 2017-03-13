@@ -7,7 +7,7 @@ header {
     padding: 2rem 0;
     margin: 0;
     /*width: 100vw;*/
-    height: 100vh;
+    height: 80vh;
 }
 
 body {
@@ -19,6 +19,8 @@ h1 {
     font-size: 2.5em;
     font-weight: bold;
     color: #fff;
+    text-align: center;
+    padding-top: 200px;
 }
 
 h2 {
@@ -35,26 +37,11 @@ p {
   color: #353535;
 }
 
-#footer {
-    background-color: #496958;
-    height: 50px;
-    color: #fff;
-    font-family: "Open Sans", sans-serif;
-    font-size: .5em;
-}
-
 #container {
   width: 60%;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   background-color: #f1eee7;
-}
-#homepagelinks {
-  display:block;
-  background-color: #93AF87;
-    text-align:left;;
-    text-decoration: none;
-    padding: 1px;
 }
 
 a:link a:visited {
@@ -90,4 +77,12 @@ text-decoration: none;
 
 #nav a:hover, #nav a:active {
   background-color: #93af87;
+}
+
+#footer {
+    background-color: #496958;
+    height: 50px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-size: .5em;
 }
