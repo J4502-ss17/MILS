@@ -1,5 +1,15 @@
 /*styles go here*/
 
+header {
+    background: #496958;
+    background-image: url('img/meditation.jpg');
+    background-size: cover;
+    padding: 2rem 0;
+    margin: 0;
+    /*width: 100vw;*/
+    height: 100vh;
+}
+
 body {
   background-color:#f1eee7;
 }
