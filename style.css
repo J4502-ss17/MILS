@@ -56,10 +56,10 @@ p {
     text-decoration: none;
     padding: 1px;
 }
-a:link {
+
+a:link, a:visited {
 color: #e46c5c;
 }
-
 
 #nav {
   padding-top: 10px;
