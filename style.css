@@ -35,29 +35,14 @@ p {
   color: #353535;
 }
 
-#footer {
-    background-color: #496958;
-    height: 50px;
-    color: #fff;
-    font-family: "Open Sans", sans-serif;
-    font-size: .5em;
-}
-
 #container {
   width: 60%;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   background-color: #f1eee7;
 }
-#homepagelinks {
-  display:block;
-  background-color: #93AF87;
-    text-align:left;;
-    text-decoration: none;
-    padding: 1px;
-}
 
-a:link, a:visited {
+a:link {
 color: #e46c5c;
 }
 
@@ -87,4 +72,12 @@ color: #e46c5c;
 
 #nav a:hover, #nav a:active {
   background-color: #93af87;
+}
+
+#footer {
+    background-color: #496958;
+    height: 50px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-size: .5em;
 }
