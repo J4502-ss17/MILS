@@ -33,7 +33,7 @@ h2 {
 
 h3 {
   font-family: "Lora", serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-weight: bold;
   color: #fff;
   text-align: left;
@@ -67,7 +67,7 @@ p {
   text-decoration: none;
   background-color: #93AF87;
   text-align: left;
-  padding: 1px;
+  padding: 8px;
 }
 
 a:link, a:visited {
