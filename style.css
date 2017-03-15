@@ -147,3 +147,13 @@ a:link, a:visited {
   border: 2px solid #93af87;
   padding: 4px;
 }
+#name {font-weight: bold;}
+
+#directorcontainer {
+  text-align: center;
+  width: 95%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
