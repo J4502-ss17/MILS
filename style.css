@@ -70,6 +70,10 @@ p {
   padding: 8px;
 }
 
+.homepagelinks a:hover, .homepagelinks a:active {
+  background-color: #496958;
+}
+
 a:link, a:visited {
   color: #e46c5c;
 }
