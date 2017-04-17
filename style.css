@@ -160,7 +160,6 @@ a:link, a:visited {
   padding: 4px;
 }
 #name {font-weight: bold;}
-<<<<<<< HEAD
 
 #directorcontainer {
   text-align: center;
@@ -171,11 +170,7 @@ a:link, a:visited {
   margin-left: auto;
 }
 
-<<<<<<< HEAD
-/*//image card container styles*/
-@media screen and (min-width: 500px){
-
-
+@media screen and (min-width: 600px){
   .card-container {
       display: flex;
       flex-flow: row;
@@ -188,12 +183,6 @@ a:link, a:visited {
   }
 }
 
-@media screen and (min-width: 800px){
-
-
-
-}
-=======
 @media screen and (min-width:1000px) {
   .menu-trigger {
     display: none;
@@ -215,6 +204,3 @@ a:link, a:visited {
    background-color: #93af87;
  }
 }
-=======
->>>>>>> origin/master
->>>>>>> origin/master
