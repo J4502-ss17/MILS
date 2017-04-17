@@ -191,7 +191,7 @@ a:link, a:visited {
     float: left;
   }
 
-  .card-container {
+  #card-container {
       display: flex;
       flex-flow: row;
       flex-wrap: wrap;
