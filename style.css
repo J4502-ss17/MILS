@@ -157,3 +157,8 @@ a:link, a:visited {
   margin-right: auto;
   margin-left: auto;
 }
+
+@media screen and (min-width:600px) {
+
+
+}
