@@ -54,6 +54,10 @@ p {
   color: #353535;
 }
 
+img {
+  width: 100%;
+}
+
 #container {
   width: 75%;
   margin: 0 auto;
@@ -168,12 +172,35 @@ a:link, a:visited {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 @media screen and (min-width:600px) {
   .leader {
     margin-right: 1em;
     margin-bottom: .5em;
     float: left;
   }
+=======
+/*//image card container styles*/
+@media screen and (min-width: 500px){
+
+
+  .card-container {
+      display: flex;
+      flex-flow: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+
+  .card {
+      width: 30%;
+  }
+}
+
+@media screen and (min-width: 800px){
+
+
+
+>>>>>>> origin/master
 }
 =======
 @media screen and (min-width:1000px) {
