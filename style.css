@@ -153,13 +153,10 @@ a:link, a:visited {
   border: 2px solid #93af87;
   padding: 4px;
 }
-<<<<<<< Updated upstream
-#name {font-weight: bold;}
-=======
+
 #name {
   font-weight: bold;
 }
->>>>>>> Stashed changes
 
 #directorcontainer {
   text-align: center;
@@ -170,7 +167,19 @@ a:link, a:visited {
   margin-left: auto;
 }
 
-<<<<<<< Updated upstream
+.menu-trigger {
+    order: 1;
+    font-size: 1.75em;
+    width: 2em;
+    color: #496958;
+    text-decoration: none;
+}
+
+.menu-trigger a:visited {
+  color: #496958;
+
+}
+
 @media screen and (min-width: 600px){
 
   .leader {
@@ -189,18 +198,6 @@ a:link, a:visited {
   .card {
       width: 30%;
   }
-=======
-.menu-trigger {
-    order: 1;
-    font-size: 1.75em;
-    width: 2em;
-    color: #496958;
-    text-decoration: none;
-}
-
-.menu-trigger a:visited {
-  color: #496958;
->>>>>>> Stashed changes
 }
 
 @media screen and (min-width:1000px) {
