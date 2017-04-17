@@ -65,13 +65,13 @@ p {
   display: block;
   color: #fff;
   text-decoration: none;
-  background-color: #93AF87;
+  background-color: #496958;
   text-align: left;
   padding: 8px;
 }
 
 .homepagelinks a:hover, .homepagelinks a:active {
-  background-color: #496958;
+  background-color:#93AF87;
 }
 
 a:link, a:visited {
@@ -148,12 +148,3 @@ a:link, a:visited {
   padding: 4px;
 }
 #name {font-weight: bold;}
-
-#directorcontainer {
-  text-align: center;
-  width: 95%;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-right: auto;
-  margin-left: auto;
-}
