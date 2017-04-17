@@ -2,12 +2,12 @@
 
 header {
   background: #496958;
-  background-image: url(Images/meditation.jpg);
+  background-image: url(Images/meditation2.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 80vh;
+  height: 60vh;
 }
 
 body {
