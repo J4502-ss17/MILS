@@ -61,6 +61,14 @@ p {
   background-color: #f1eee7;
 }
 
+.menu-trigger {
+    order: 1;
+    font-size: 1.75em;
+    width: 2em;
+    color: #4D5A63;
+    text-decoration: none;
+}
+
 .homepagelinks a:link, .homepagelinks a:visited {
   display: block;
   color: #fff;
@@ -156,4 +164,26 @@ a:link, a:visited {
   margin-bottom: 0;
   margin-right: auto;
   margin-left: auto;
+}
+
+@media screen and (min-width:1000px) {
+  .menu-trigger {
+    display: none;
+  }
+
+ #nav {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-around;
+   background-color: #496958;
+ }
+
+ #nav li {
+   border-bottom: none;
+   padding: 10px;
+ }
+
+ #nav a:hover {
+   background-color: #93af87;
+ }
 }
