@@ -73,17 +73,17 @@ p {
   display: block;
   color: #fff;
   text-decoration: none;
-  background-color: #93AF87;
+  background-color: #496958;
   text-align: left;
   padding: 8px;
 }
 
 .homepagelinks a:hover, .homepagelinks a:active {
-  background-color: #496958;
+  background-color:#93AF87;
 }
 
 a:link, a:visited {
-  color: #e46c5c;
+  color: #ef8375;
 }
 
 #nav {
@@ -156,6 +156,7 @@ a:link, a:visited {
   padding: 4px;
 }
 #name {font-weight: bold;}
+<<<<<<< HEAD
 
 #directorcontainer {
   text-align: center;
@@ -187,3 +188,5 @@ a:link, a:visited {
    background-color: #93af87;
  }
 }
+=======
+>>>>>>> origin/master
