@@ -65,21 +65,29 @@ img {
   background-color: #f1eee7;
 }
 
+.menu-trigger {
+    order: 1;
+    font-size: 1.75em;
+    width: 2em;
+    color: #4D5A63;
+    text-decoration: none;
+}
+
 .homepagelinks a:link, .homepagelinks a:visited {
   display: block;
   color: #fff;
   text-decoration: none;
-  background-color: #93AF87;
+  background-color: #496958;
   text-align: left;
   padding: 8px;
 }
 
 .homepagelinks a:hover, .homepagelinks a:active {
-  background-color: #496958;
+  background-color:#93AF87;
 }
 
 a:link, a:visited {
-  color: #e46c5c;
+  color: #ef8375;
 }
 
 #nav {
@@ -152,6 +160,7 @@ a:link, a:visited {
   padding: 4px;
 }
 #name {font-weight: bold;}
+<<<<<<< HEAD
 
 #directorcontainer {
   text-align: center;
@@ -162,6 +171,7 @@ a:link, a:visited {
   margin-left: auto;
 }
 
+<<<<<<< HEAD
 /*//image card container styles*/
 @media screen and (min-width: 500px){
 
@@ -183,3 +193,28 @@ a:link, a:visited {
 
 
 }
+=======
+@media screen and (min-width:1000px) {
+  .menu-trigger {
+    display: none;
+  }
+
+ #nav {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-around;
+   background-color: #496958;
+ }
+
+ #nav li {
+   border-bottom: none;
+   padding: 10px;
+ }
+
+ #nav a:hover {
+   background-color: #93af87;
+ }
+}
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
