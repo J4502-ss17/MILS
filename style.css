@@ -74,10 +74,12 @@ img {
   background-color: #496958;
   text-align: left;
   padding: 8px;
+  border: 1px solid #93AF87;
 }
 
 .homepagelinks a:hover, .homepagelinks a:active {
   background-color:#93AF87;
+  border: 1px solid #496958;
 }
 
 #nav {
