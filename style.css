@@ -58,6 +58,8 @@ img {
   width: 100%;
 }
 
+
+
 #container {
   width: 75%;
   margin: 0 auto;
@@ -76,10 +78,6 @@ img {
 
 .homepagelinks a:hover, .homepagelinks a:active {
   background-color:#93AF87;
-}
-
-a:link, a:visited {
-  color: #ef8375;
 }
 
 #nav {
@@ -175,16 +173,20 @@ a:link, a:visited {
     text-decoration: none;
 }
 
-.menu-trigger a {
-  color: #496958;
-}
-
 .menu-trigger a:visited {
   color: #496958;
 }
 
 #nav {
   display: none;
+}
+
+a:link {
+  color: #ef8375;
+}
+
+a:link, a:visited {
+  color: #ef8375
 }
 
 @media screen and (min-width: 600px){
@@ -205,7 +207,6 @@ a:link, a:visited {
   .card {
       width: 30%;
   }
-
 }
 
 @media screen and (min-width:1000px) {
