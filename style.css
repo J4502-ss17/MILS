@@ -58,8 +58,6 @@ img {
   width: 100%;
 }
 
-
-
 #container {
   width: 75%;
   margin: 0 auto;
@@ -74,7 +72,7 @@ img {
   background-color: #496958;
   text-align: left;
   padding: 8px;
-  border: 1px solid #93AF87;
+  border: 1px solid #496958;
 }
 
 .homepagelinks a:hover, .homepagelinks a:active {
