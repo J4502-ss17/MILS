@@ -7,67 +7,67 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 .about {
   background: #496958;
-  background-image: url(Images/meditation2.jpg);
+  background-image: url(Images/sand.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 .membership {
   background: #496958;
-  background-image: url(Images/meditation2.jpg);
+  background-image: url(Images/field.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 .directory {
   background: #496958;
-  background-image: url(Images/meditation2.jpg);
+  background-image: url(Images/buddha.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 .resources {
   background: #496958;
-  background-image: url(Images/meditation2.jpg);
+  background-image: url(Images/lake.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 .blog {
   background: #496958;
-  background-image: url(Images/meditation2.jpg);
+  background-image: url(Images/waterfall.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 .contact {
   background: #496958;
-  background-image: url(Images/meditation2.jpg);
+  background-image: url(Images/rock.jpg);
   background-size: cover;
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 60vh;
+  height: 50vh;
 }
 
 body {
