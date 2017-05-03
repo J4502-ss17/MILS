@@ -203,7 +203,7 @@ a:link, a:visited {
   color: #ef8375
 }
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 400px){
 
   .leader {
     margin-right: 1em;
@@ -224,6 +224,7 @@ a:link, a:visited {
 }
 
 @media screen and (min-width:1000px) {
+
   .menu-trigger {
     display: none;
   }
