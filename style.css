@@ -1,6 +1,66 @@
 /*styles go here*/
 
-header {
+.index {
+  background: #496958;
+  background-image: url(Images/meditation2.jpg);
+  background-size: cover;
+  padding: 2rem 0;
+  margin: 0;
+  /*width: 100vw;*/
+  height: 60vh;
+}
+
+.about {
+  background: #496958;
+  background-image: url(Images/meditation2.jpg);
+  background-size: cover;
+  padding: 2rem 0;
+  margin: 0;
+  /*width: 100vw;*/
+  height: 60vh;
+}
+
+.membership {
+  background: #496958;
+  background-image: url(Images/meditation2.jpg);
+  background-size: cover;
+  padding: 2rem 0;
+  margin: 0;
+  /*width: 100vw;*/
+  height: 60vh;
+}
+
+.directory {
+  background: #496958;
+  background-image: url(Images/meditation2.jpg);
+  background-size: cover;
+  padding: 2rem 0;
+  margin: 0;
+  /*width: 100vw;*/
+  height: 60vh;
+}
+
+.resources {
+  background: #496958;
+  background-image: url(Images/meditation2.jpg);
+  background-size: cover;
+  padding: 2rem 0;
+  margin: 0;
+  /*width: 100vw;*/
+  height: 60vh;
+}
+
+.blog {
+  background: #496958;
+  background-image: url(Images/meditation2.jpg);
+  background-size: cover;
+  padding: 2rem 0;
+  margin: 0;
+  /*width: 100vw;*/
+  height: 60vh;
+}
+
+.contact {
   background: #496958;
   background-image: url(Images/meditation2.jpg);
   background-size: cover;
@@ -203,7 +263,7 @@ a:link, a:visited {
   color: #ef8375
 }
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 400px){
 
   .leader {
     margin-right: 1em;
@@ -224,6 +284,7 @@ a:link, a:visited {
 }
 
 @media screen and (min-width:1000px) {
+
   .menu-trigger {
     display: none;
   }
