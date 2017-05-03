@@ -283,7 +283,7 @@ a:link, a:visited {
   }
 }
 
-@media screen and (min-width:1000px) {
+@media screen and (min-width:650px) {
 
   .menu-trigger {
     display: none;
