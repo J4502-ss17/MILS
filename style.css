@@ -7,7 +7,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 .about {
@@ -17,7 +17,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 .membership {
@@ -27,7 +27,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 .directory {
@@ -37,7 +37,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 .resources {
@@ -47,7 +47,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 .blog {
@@ -57,7 +57,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 .contact {
@@ -67,7 +67,7 @@
   padding: 2rem 0;
   margin: 0;
   /*width: 100vw;*/
-  height: 30vh;
+  height: 25vh;
 }
 
 body {
@@ -80,7 +80,7 @@ h1 {
   font-weight: bold;
   color: #fff;
   text-align: center;
-  padding-top: 72px;
+  padding-top: 45px;
 }
 
 h2 {
@@ -274,7 +274,7 @@ a:link, a:visited {
     font-weight: bold;
     color: #fff;
     text-align: center;
-    padding-top: 145px;
+    padding-top: 175px;
   }
 
   .index {
