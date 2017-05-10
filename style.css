@@ -263,8 +263,22 @@ a:link, a:visited {
   color: #ef8375
 }
 
+<<<<<<< Updated upstream
 
 
+=======
+<<<<<<< HEAD
+#card-container {
+    display: block;
+    flex-flow: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+=======
+
+
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
 @media screen and (min-width: 400px){
 
@@ -353,16 +367,6 @@ a:link, a:visited {
     float: left;
   }
 
-  #card-container {
-      display: flex;
-      flex-flow: row;
-      flex-wrap: wrap;
-      justify-content: space-between;
-  }
-
-  .card {
-      width: 30%;
-  }
 }
 
 @media screen and (min-width:650px) {
@@ -384,5 +388,15 @@ a:link, a:visited {
 
  #nav a:hover {
    background-color: #93af87;
+ }
+
+ #card-container {
+     display: flex;
+     flex-flow: row;
+     flex-wrap: wrap;
+     justify-content: space-between;
+ }
+ .card {
+     width: 30%;
  }
 }
