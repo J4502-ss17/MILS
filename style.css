@@ -118,6 +118,14 @@ img {
   width: 100%;
 }
 
+iframe {
+  margin: 0;
+  padding: 0;
+  border: none;
+  width: 800px;
+  height: 4000px;
+}
+
 #navcontainer{
   text-align: center;
 }
